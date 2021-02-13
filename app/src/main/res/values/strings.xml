@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">DBGame</string>
+
+    <string name="title_activity_ho_f">Hall Of Flame</string>
+
+    <string-array name="forbes">
+        <item>Bill Gates</item>
+        <item>Warren Buffett</item>
+        <item>Jeff Bezos</item>
+        <item>Amancio Ortega</item>
+        <item>Mark Zuckerberg</item>
+        <item>Bill Gates</item>
+        <item>Warren Buffett</item>
+        <item>Jeff Bezos</item>
+        <item>Amancio Ortega</item>
+        <item>Mark Zuckerberg</item>
+        <item>Bill Gates</item>
+        <item>Warren Buffett</item>
+        <item>Jeff Bezos</item>
+        <item>Amancio Ortega</item>
+        <item>Mark Zuckerberg</item>
+        <item>Bill Gates</item>
+        <item>Warren Buffett</item>
+        <item>Jeff Bezos</item>
+        <item>Amancio Ortega</item>
+        <item>Mark Zuckerberg</item>
+        <item>Bill Gates</item>
+        <item>Warren Buffett</item>
+        <item>Jeff Bezos</item>
+        <item>Amancio Ortega</item>
+        <item>Mark Zuckerberg</item>
+        <item>Bill Gates</item>
+        <item>Warren Buffett</item>
+        <item>Jeff Bezos</item>
+        <item>Amancio Ortega</item>
+        <item>Mark Zuckerberg</item>
+        <item>Bill Gates</item>
+        <item>Warren Buffett</item>
+        <item>Jeff Bezos</item>
+        <item>Amancio Ortega</item>
+        <item>Mark Zuckerberg</item>
+    </string-array>
+
+</resources>
